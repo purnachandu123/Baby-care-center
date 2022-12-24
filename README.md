@@ -26,6 +26,8 @@ Project Link: https://purnachandu123.github.io/Baby-care-center/
 
 Azure Project Link: https://purple-meadow-05e3f0710.2.azurestaticapps.net
 
+project demo video link :
+
 Project Screen Shots:
 
 Home page:
