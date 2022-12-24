@@ -22,12 +22,9 @@ Project Links and Azure Links:
 
 Github Reprository Links: https://github.com/purnachandu123/Baby-care-center
 
-Github Project Link: https://purnachandu123.github.io/Baby-care-center/
+Project Link: https://purnachandu123.github.io/Baby-care-center/
 
 Azure Project Link: https://purple-meadow-05e3f0710.2.azurestaticapps.net
-
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
 
 Project Screen Shots:
 
