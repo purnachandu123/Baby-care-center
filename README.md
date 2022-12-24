@@ -56,6 +56,21 @@ Baby care Appointment bot:
 
 ![baby care appointment bot](https://user-images.githubusercontent.com/118438293/206984765-0efaf0b9-1ef2-4db9-bf86-993e57146b15.png)
 
+
+Static web apps -
+
+![Screenshot (237)](https://user-images.githubusercontent.com/118438293/209434829-59046f35-897d-4a1a-8a7f-2a0fc7c404bc.png)
+
+
+Azure health bot -
+
+
+![Screenshot (238)](https://user-images.githubusercontent.com/118438293/209434848-67fb7b02-faca-48ea-bc82-6ae87381b8c0.png)
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
